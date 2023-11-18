@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/moremcmeta-emissive-forge",
+  "1.20.2": {
+    "1.20.2-2.0.3": "Update to 1.20.2."
+  },
   "1.20.1": {
+    "1.20.1-2.0.3": "Fixes an issue causing armor overlays to render underneath the base layer. Fixes an issue causing an armor afterimage to appear with Complementary Shaders.",
     "1.20.1-2.0.2": "Fixes stuttering when chunks with liquids are loaded.",
     "1.20.1-2.0.1": "Fixes z-fighting with emissive overlays when Sodium or one of its ports is present.",
     "1.20.1-2.0.0": "Adds the `transparency` option for emissive textures, which supports `translucent` (partial transparency) or `auto` (based on the block's render type). By default, textures are now set to `auto` to improve compatibility with Sodium and its Forge ports. Fixes a stuttering issue on 1.19.4 and 1.20.1. Fixes enchantment overlays on Forge.",
@@ -10,6 +14,7 @@
     "1.20.1-1.0.0": "Initial release"
   },
   "1.19.4": {
+    "1.19.4-2.0.3": "Fixes an issue causing armor overlays to render underneath the base layer. Fixes an issue causing an armor afterimage to appear with Complementary Shaders.",
     "1.19.4-2.0.2": "Fixes stuttering when chunks with liquids are loaded.",
     "1.19.4-2.0.1": "Fixes z-fighting with emissive overlays when Sodium or one of its ports is present.",
     "1.19.4-2.0.0": "Adds the `transparency` option for emissive textures, which supports `translucent` (partial transparency) or `auto` (based on the block's render type). By default, textures are now set to `auto` to improve compatibility with Sodium and its Forge ports. Fixes a stuttering issue on 1.19.4 and 1.20.1. Fixes enchantment overlays on Forge.",
@@ -19,6 +24,7 @@
     "1.19.4-1.0.0": "Initial release"
   },
   "1.19.2": {
+    "1.19.2-2.0.3": "Fixes an issue causing armor overlays to render underneath the base layer. Fixes an issue causing an armor afterimage to appear with Complementary Shaders.",
     "1.19.2-2.0.2": "Fixes stuttering when chunks with liquids are loaded.",
     "1.19.2-2.0.1": "Fixes z-fighting with emissive overlays when Sodium or one of its ports is present.",
     "1.19.2-2.0.0": "Adds the `transparency` option for emissive textures, which supports `translucent` (partial transparency) or `auto` (based on the block's render type). By default, textures are now set to `auto` to improve compatibility with Sodium and its Forge ports. Fixes a stuttering issue on 1.19.4 and 1.20.1. Fixes enchantment overlays on Forge.",
@@ -27,6 +33,7 @@
     "1.19.2-1.0.1": "Fix invisible shulker boxes, beds, banners, conduit, chests, mob heads, and shield in the inventory."
   },
   "1.18.2": {
+    "1.18.2-2.0.3": "Fixes an issue causing armor overlays to render underneath the base layer. Fixes an issue causing an armor afterimage to appear with Complementary Shaders.",
     "1.18.2-2.0.2": "Fixes stuttering when chunks with liquids are loaded.",
     "1.18.2-2.0.1": "Fixes z-fighting with emissive overlays when Sodium or one of its ports is present.",
     "1.18.2-2.0.0": "Adds the `transparency` option for emissive textures, which supports `translucent` (partial transparency) or `auto` (based on the block's render type). By default, textures are now set to `auto` to improve compatibility with Sodium and its Forge ports. Fixes a stuttering issue on 1.19.4 and 1.20.1. Fixes enchantment overlays on Forge.",
@@ -36,6 +43,7 @@
     "1.18.2-1.0.0": "Initial release"
   },
   "1.17.1": {
+    "1.17.1-2.0.3": "Fixes an issue causing armor overlays to render underneath the base layer. Fixes an issue causing an armor afterimage to appear with Complementary Shaders.",
     "1.17.1-2.0.2": "Fixes stuttering when chunks with liquids are loaded.",
     "1.17.1-2.0.1": "Fixes z-fighting with emissive overlays when Sodium or one of its ports is present.",
     "1.17.1-2.0.0": "Adds the `transparency` option for emissive textures, which supports `translucent` (partial transparency) or `auto` (based on the block's render type). By default, textures are now set to `auto` to improve compatibility with Sodium and its Forge ports. Fixes a stuttering issue on 1.19.4 and 1.20.1. Fixes enchantment overlays on Forge.",
@@ -45,6 +53,7 @@
     "1.17.1-1.0.0": "Initial release"
   },
   "1.16.5": {
+    "1.16.5-2.0.3": "Fixes an issue causing armor overlays to render underneath the base layer. Fixes an issue causing an armor afterimage to appear with Complementary Shaders.",
     "1.16.5-2.0.2": "Fixes stuttering when chunks with liquids are loaded.",
     "1.16.5-2.0.1": "Fixes z-fighting with emissive overlays when Sodium or one of its ports is present.",
     "1.16.5-2.0.0": "Adds the `transparency` option for emissive textures, which supports `translucent` (partial transparency) or `auto` (based on the block's render type). By default, textures are now set to `auto` to improve compatibility with Sodium and its Forge ports. Fixes a stuttering issue on 1.19.4 and 1.20.1. Fixes enchantment overlays on Forge.",
@@ -54,11 +63,12 @@
     "1.16.5-1.0.0": "Initial release"
   },
   "promos": {
-    "1.20.1-recommended": "1.20.1-2.0.2",
-    "1.19.4-recommended": "1.19.4-2.0.2",
-    "1.19.2-recommended": "1.19.2-2.0.2",
-    "1.18.2-recommended": "1.18.2-2.0.2",
-    "1.17.1-recommended": "1.17.1-2.0.2",
-    "1.16.5-recommended": "1.16.5-2.0.2"
+    "1.20.2-recommended": "1.20.1-2.0.3",
+    "1.20.1-recommended": "1.20.1-2.0.3",
+    "1.19.4-recommended": "1.19.4-2.0.3",
+    "1.19.2-recommended": "1.19.2-2.0.3",
+    "1.18.2-recommended": "1.18.2-2.0.3",
+    "1.17.1-recommended": "1.17.1-2.0.3",
+    "1.16.5-recommended": "1.16.5-2.0.3"
   }
 }
