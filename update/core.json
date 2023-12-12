@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/moremcmeta",
+  "1.20.4": {
+    "1.20.4-4.4.5": "Update to 1.20.4."
+  },
   "1.20.2": {
     "1.20.2-4.4.5": "Refactors pack namespace retrieval to fix stack overflow with mods that scan all resources.",
     "1.20.2-4.4.4": "Round fractional frame times down to be consistent with vanilla.",
@@ -145,6 +148,7 @@
     "1.16.4-1.0.0": "Initial release"
   },
   "promos": {
+    "1.20.4-recommended": "1.20.4-4.4.5",
     "1.20.2-recommended": "1.20.2-4.4.5",
     "1.20.1-recommended": "1.20.1-4.4.5",
     "1.19.4-recommended": "1.19.4-4.4.5",
