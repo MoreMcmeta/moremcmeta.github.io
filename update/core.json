@@ -1,10 +1,14 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/moremcmeta",
+  "1.21.1": {
+    "1.21.1-4.5.1": "Fix a crash with other mods that bind 13+ textures simultaneously."
+  },
   "1.21": {
     "1.21-4.5.0": "* MoreMcmeta now only updates actively-used sprites rather than all sprites on every tick. This should help performance with sprite-heavy resource packs on some computers.\n* Fixes an issue where animation frame sizes that aren't multiples of the texture size would cause crashes.\n* Metadata and texture error log statements have been lowered from ERROR to WARN.",
     "1.21-4.4.7": "Update to 1.21."
   },
   "1.20.6": {
+    "1.20.6-4.5.1": "Fix a crash with other mods that bind 13+ textures simultaneously.",
     "1.20.6-4.5.0": "* MoreMcmeta now only updates actively-used sprites rather than all sprites on every tick. This should help performance with sprite-heavy resource packs on some computers.\n* Fixes an issue where animation frame sizes that aren't multiples of the texture size would cause crashes.\n* Metadata and texture error log statements have been lowered from ERROR to WARN.",
     "1.20.6-4.4.7": "Update to 1.20.6."
   },
@@ -24,6 +28,7 @@
     "1.20.2-4.4.0": "Adds API support for GUI metadata to prepare for an update to 1.20.2. Expands texture atlas support to atlases not on a predefined list. Fixes an issue where sprites in non-block atlases would not animate in 1.19.4 and 1.20.1."
   },
   "1.20.1": {
+    "1.20.1-4.5.1": "Fix a crash with other mods that bind 13+ textures simultaneously.",
     "1.20.1-4.5.0": "* MoreMcmeta now only updates actively-used sprites rather than all sprites on every tick. This should help performance with sprite-heavy resource packs on some computers.\n* Fixes an issue where animation frame sizes that aren't multiples of the texture size would cause crashes.\n* Metadata and texture error log statements have been lowered from ERROR to WARN.",
     "1.20.1-4.4.7": "Add mod icons for default plugins.",
     "1.20.1-4.4.6": "Fixes an issue that would cause large zipped resource packs to load slowly.",
